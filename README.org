@@ -4,6 +4,6 @@ Protocol for transparent collections of files.
 
 |---------+-------------------------------------------|
 | source  | git:https://github.com/shinmera/depot.git |
-| commit  | 95f5018                                   |
+| commit  | 99e841e                                   |
 | systems | depot                                     |
 |---------+-------------------------------------------|
