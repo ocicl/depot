@@ -3,7 +3,7 @@
 Protocol for transparent collections of files.
 
 |---------+-------------------------------------------|
-| source  | git:https://github.com/shinmera/depot.git |
-| commit  | 720f732                                   |
+| source  | git:https://codeberg.org/shinmera/depot.git |
+| commit  | 0000000                                   |
 | systems | depot                                     |
 |---------+-------------------------------------------|
