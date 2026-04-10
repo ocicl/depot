@@ -4,6 +4,6 @@ Protocol for transparent collections of files.
 
 |---------+-------------------------------------------|
 | source  | git:https://codeberg.org/shinmera/depot.git |
-| commit  | 0000000                                   |
+| commit  | 6b46c7d                                   |
 | systems | depot depot-zip                           |
 |---------+-------------------------------------------|
